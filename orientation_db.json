@@ -1,0 +1,703 @@
+{
+  "sessions": [
+    {
+      "id": "sess-tue-1",
+      "guestId": "guest-1",
+      "guestName": "د. نسيم عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "10:20 AM",
+      "endTimeStr": "1:00 PM",
+      "startIso": "2026-08-25T10:20:00",
+      "endIso": "2026-08-25T13:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 16,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "حوار حول التخطيط الأكاديمي، تنظيم الجدول الدراسي، وتجنب العثرات الأكاديمية.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-2",
+      "guestId": "guest-2",
+      "guestName": "د. شهرة عبدالرحمن الشهري",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "1:00 PM",
+      "endTimeStr": "2:00 PM",
+      "startIso": "2026-08-25T13:00:00",
+      "endIso": "2026-08-25T14:00:00",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "جلسة حول التكيف مع البيئة الجامعية وبناء التوازن والاستقرار النفسي.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-3",
+      "guestId": "guest-3",
+      "guestName": "د. محمود علي عبدالعزيز",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "11:00 AM",
+      "endTimeStr": "12:20 PM",
+      "startIso": "2026-08-25T11:00:00",
+      "endIso": "2026-08-25T12:20:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 8,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "اختيار التخصص الأكاديمي ومواءمة المهارات مع متطلبات سوق العمل.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-4",
+      "guestId": "guest-4",
+      "guestName": "د. وفاء سليمان الجهني",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "10:40 AM",
+      "endTimeStr": "12:00 PM",
+      "startIso": "2026-08-25T10:40:00",
+      "endIso": "2026-08-25T12:00:00",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 8,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "التعامل مع البيئة الجامعية، الاختبارات، وتنظيم الوقت والراحة الذهنية.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-5",
+      "guestId": "guest-5",
+      "guestName": "د. عهود عبدالرزاق العنزي",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "12:40 PM",
+      "startIso": "2026-08-25T10:00:00",
+      "endIso": "2026-08-25T12:40:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 16,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "استكشاف الميول والمهارات المهنية واستثمار الأنشطة الطلابية.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-6",
+      "guestId": "guest-6",
+      "guestName": "د. نرجس عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "2:00 PM",
+      "startIso": "2026-08-25T10:00:00",
+      "endIso": "2026-08-25T14:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 24,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "جلسة شاملة تغطي الأنظمة الجامعية والفرص التدريبية وبناء المهارات.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-7",
+      "guestId": "guest-7",
+      "guestName": "د. جيهان طه خليل",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "10:40 AM",
+      "endTimeStr": "12:00 PM",
+      "startIso": "2026-08-25T10:40:00",
+      "endIso": "2026-08-25T12:00:00",
+      "fields": [
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 8,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "الاستفادة من مصادر التعلم والتواصل الفعال مع أعضاء هيئة التدريس.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-1",
+      "guestId": "guest-1",
+      "guestName": "د. نسيم عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "10:20 AM",
+      "endTimeStr": "1:00 PM",
+      "startIso": "2026-08-26T10:20:00",
+      "endIso": "2026-08-26T13:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 16,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "خطوات عملية لتحسين التحصيل العلمي وإدارة متطلبات المواد الدراسية.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-2",
+      "guestId": "guest-8",
+      "guestName": "د. فوزية خلف علي السواط",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "12:00 PM",
+      "endTimeStr": "1:00 PM",
+      "startIso": "2026-08-26T12:00:00",
+      "endIso": "2026-08-26T13:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "الربط بين الطموح المهني، الاستقرار النفسي، والتحصيل الأكاديمي.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-3",
+      "guestId": "guest-3",
+      "guestName": "د. محمود علي عبدالعزيز",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "11:00 AM",
+      "endTimeStr": "12:20 PM",
+      "startIso": "2026-08-26T11:00:00",
+      "endIso": "2026-08-26T12:20:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 8,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "تخصصات المستقبل والمهارات التقنية والناعمة المطلوبة للطلاب والخريجين.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-4",
+      "guestId": "guest-9",
+      "guestName": "د. ناصر محمد عمر العبيدي",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "11:00 AM",
+      "startIso": "2026-08-26T10:00:00",
+      "endIso": "2026-08-26T11:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "المرونة النفسية واستثمار بيئة الجامعة لبناء تجربة متكاملة.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-5",
+      "guestId": "guest-5",
+      "guestName": "د. عهود عبدالرزاق العنزي",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "12:40 PM",
+      "startIso": "2026-08-26T10:00:00",
+      "endIso": "2026-08-26T12:40:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 16,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "أهمية الأندية الطلابية والعمل التطوعي في تعزيز المسار المهني والأكاديمي.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-6",
+      "guestId": "guest-6",
+      "guestName": "د. نرجس عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "2:00 PM",
+      "startIso": "2026-08-26T10:00:00",
+      "endIso": "2026-08-26T14:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 24,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "توجيهات في التخطيط المستقبلي وكيفية تنظيم الوقت وتجنب الإرهاق.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-wed-7",
+      "guestId": "guest-7",
+      "guestName": "د. جيهان طه خليل",
+      "title": "",
+      "dayKey": "wednesday",
+      "dayName": "الأربعاء",
+      "dateStr": "2026-08-26",
+      "dateLabel": "الأربعاء 26 أغسطس 2026",
+      "startTimeStr": "10:40 AM",
+      "endTimeStr": "12:00 PM",
+      "startIso": "2026-08-26T10:40:00",
+      "endIso": "2026-08-26T12:00:00",
+      "fields": [
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 8,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "تقنيات تلخيص المواد، المذاكرة، والاستعداد للاختبارات الجامعية.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-1",
+      "guestId": "guest-1",
+      "guestName": "د. نسيم عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "10:20 AM",
+      "endTimeStr": "1:00 PM",
+      "startIso": "2026-08-27T10:20:00",
+      "endIso": "2026-08-27T13:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 16,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "تلخيص لأهم القواعد الأكاديمية وفتح باب الإجابة عن استفسارات الطلاب.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-2",
+      "guestId": "guest-8",
+      "guestName": "د. فوزية خلف علي السواط",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "12:00 PM",
+      "endTimeStr": "1:00 PM",
+      "startIso": "2026-08-27T12:00:00",
+      "endIso": "2026-08-27T13:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "مهارات التواصل، العمل الجماعي، وإدارة العلاقات الإيجابية في الجامعة.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-3",
+      "guestId": "guest-9",
+      "guestName": "د. ناصر محمد عمر العبيدي",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "11:00 AM",
+      "startIso": "2026-08-27T10:00:00",
+      "endIso": "2026-08-27T11:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "الحفاظ على الدافعية طوال الفصول الدراسية والتعامل مع التحديات.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-4",
+      "guestId": "guest-6",
+      "guestName": "د. نرجس عبدالغفار بازهير",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "2:00 PM",
+      "startIso": "2026-08-27T10:00:00",
+      "endIso": "2026-08-27T14:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 24,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "توصيات وإرشادات في التوجيه الأكاديمي والمهني والنفسي والاجتماعي والدعم المستمر.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-5",
+      "guestId": "guest-10",
+      "guestName": "د. حنان خلف ليلي عنزي",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "1:00 PM",
+      "endTimeStr": "2:00 PM",
+      "startIso": "2026-08-27T13:00:00",
+      "endIso": "2026-08-27T14:00:00",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "جلسة حوارية وتوجيهية في الإرشاد النفسي والاجتماعي للطلبة المستجدين.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-thu-6",
+      "guestId": "guest-11",
+      "guestName": "د. ميسا عوده الجهني",
+      "title": "",
+      "dayKey": "thursday",
+      "dayName": "الخميس",
+      "dateStr": "2026-08-27",
+      "dateLabel": "الخميس 27 أغسطس 2026",
+      "startTimeStr": "10:00 AM",
+      "endTimeStr": "11:00 AM",
+      "startIso": "2026-08-27T10:00:00",
+      "endIso": "2026-08-27T11:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "جلسة حوارية وتوجيهية شاملة (أكاديمية وتخصصية ونفسية واجتماعية) للطلبة المستجدين.",
+      "waitlistCount": 0
+    },
+    {
+      "id": "sess-tue-8",
+      "guestId": "guest-12",
+      "guestName": "د. فاتن عبدالهادي الزايدي",
+      "title": "",
+      "dayKey": "tuesday",
+      "dayName": "الثلاثاء",
+      "dateStr": "2026-08-25",
+      "dateLabel": "الثلاثاء 25 أغسطس 2026",
+      "startTimeStr": "11:00 AM",
+      "endTimeStr": "12:00 PM",
+      "startIso": "2026-08-25T11:00:00",
+      "endIso": "2026-08-25T12:00:00",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد النفسي والاجتماعي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "location": "عمادة شؤون الطلاب",
+      "totalSeats": 6,
+      "bookedSeats": 0,
+      "isOpen": true,
+      "description": "جلسة إرشادية وتوجيهية شاملة تغطي الإرشاد الأكاديمي، النفسي، والمهني والتخصصي.",
+      "waitlistCount": 0
+    }
+  ],
+  "guests": [
+    {
+      "id": "guest-1",
+      "name": "د. نسيم عبدالغفار بازهير",
+      "title": "مرشد أكاديمي",
+      "fields": [
+        "الإرشاد الأكاديمي"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس",
+        "الأربعاء 26 أغسطس",
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-2",
+      "name": "د. شهرة عبدالرحمن الشهري",
+      "title": "إرشاد نفسي واجتماعي",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-3",
+      "name": "د. محمود علي عبدالعزيز",
+      "title": "إرشاد أكاديمي ومهني",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس",
+        "الأربعاء 26 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-4",
+      "name": "د. وفاء سليمان الجهني",
+      "title": "إرشاد وتوجيه طلابي",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-5",
+      "name": "د. عهود عبدالرزاق العنزي",
+      "title": "إرشاد تخصصي ومهني",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس",
+        "الأربعاء 26 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-6",
+      "name": "د. نرجس عبدالغفار بازهير",
+      "title": "إرشاد أكاديمي وتخصصي ونفسي واجتماعي",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس",
+        "الأربعاء 26 أغسطس",
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-7",
+      "name": "د. جيهان طه خليل",
+      "title": "إرشاد تخصصي ومهني ونفسي واجتماعي",
+      "fields": [
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس",
+        "الأربعاء 26 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-8",
+      "name": "د. فوزية خلف علي السواط",
+      "title": "إرشاد وتوجيه",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الأربعاء 26 أغسطس",
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-9",
+      "name": "د. ناصر محمد عمر العبيدي",
+      "title": "إرشاد أكاديمي ونفسي واجتماعي",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الأربعاء 26 أغسطس",
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-10",
+      "name": "د. حنان خلف ليلي عنزي",
+      "title": "إرشاد نفسي واجتماعي",
+      "fields": [
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-11",
+      "name": "د. ميسا عوده الجهني",
+      "title": "إرشاد أكاديمي وتخصصي ونفسي واجتماعي",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد التخصصي والمهني",
+        "الإرشاد النفسي والاجتماعي"
+      ],
+      "bio": "",
+      "days": [
+        "الخميس 27 أغسطس"
+      ]
+    },
+    {
+      "id": "guest-12",
+      "name": "د. فاتن عبدالهادي الزايدي",
+      "title": "إرشاد أكاديمي ونفسي وتخصصي",
+      "fields": [
+        "الإرشاد الأكاديمي",
+        "الإرشاد النفسي والاجتماعي",
+        "الإرشاد التخصصي والمهني"
+      ],
+      "bio": "",
+      "days": [
+        "الثلاثاء 25 أغسطس"
+      ]
+    }
+  ],
+  "bookings": [],
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "المشرف العام - عمادة شؤون الطلاب",
+      "email": "admin@university.edu.sa",
+      "universityId": "ADMIN-01",
+      "role": "admin"
+    },
+    {
+      "id": "user-demo-1",
+      "name": "طالب مستجد",
+      "email": "student@stu.edu.sa",
+      "universityId": "44310982",
+      "phoneNumber": "0551234567",
+      "role": "student"
+    },
+    {
+      "id": "user-1787173084352",
+      "name": "سلمى العنزي",
+      "email": "461009293@stu.ut.edu",
+      "universityId": "461009293",
+      "phoneNumber": "0502712565",
+      "role": "student"
+    }
+  ],
+  "waitlist": []
+}

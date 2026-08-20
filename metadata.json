@@ -1,0 +1,6 @@
+{
+  "name": "منصة الجلسات الحوارية لأسبوع المستجدين",
+  "description": "منصة حجز وحضور الجلسات الحوارية التفاعلية لأسبوع المستجدين بجامعة عمادة شؤون الطلاب، تشمل الجداول والمواعيد والـ QR Code ونظام الحضور ولوحة التحكم الإدارية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
